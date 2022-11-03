@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @maggieyc
-- 👀 I'm interested in animation!
-- 🌱 I’m currently learning Java and C.
